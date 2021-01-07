@@ -1,0 +1,10 @@
+- name: <AFBl>(Lambdab->Lambda(1520)mumu)
+  q2min: 0.1
+  q2max: 3
+- name: <AFBl>(Lambdab->Lambda(1520)mumu)
+  q2min: 3
+  q2max: 6
+- name: <AFBl>(Lambdab->Lambda(1520)mumu)
+  q2min: 6
+  q2max: 8.68
+
