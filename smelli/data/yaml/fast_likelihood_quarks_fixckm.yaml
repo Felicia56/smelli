@@ -8,6 +8,9 @@ observables: !include_merge_list
   - observables_bkstarmumu_lhcb.yaml
   - observables_lambdablambdall_br.yaml
   - observables_lambdablambdall_afb.yaml
+  - observables_lambdablambda1520ll_br.yaml
+  - observables_lambdablambda1520ll_afb.yaml
+  - observables_lambdablambda1520ll_S1cc.yaml
   - observables_bsmumu.yaml
   - observables_bsgamma.yaml
   - observables_bsphimumu.yaml
